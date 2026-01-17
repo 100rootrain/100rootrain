@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Top Langs](https://100rootrain-stats.vercel.app/api/top-langs?username=100rootrain&layout=compact&hide=html,css&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **100rootrain/100rootrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
