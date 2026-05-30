@@ -1,1 +1,1 @@
-[![Top Langs](https://100rootrain-stats.vercel.app/api/top-langs?username=100rootrain&layout=compact&hide=html,css&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://100rootrain-stats.vercel.app/api/top-langs?username=100rootrain&layout=compact&hide=html,css&theme=radical&count_private=true&v=1)](https://github.com/anuraghazra/github-readme-stats)
